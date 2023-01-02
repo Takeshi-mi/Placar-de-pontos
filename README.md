@@ -6,7 +6,7 @@ Decidi eu mesmo codar o meu para quando precisasse outra vez em alguma dinâmica
 
 ## Escolha a quantidade de times
 
-![image](https://user-images.githubusercontent.com/101356765/210270907-c8077092-2be2-400f-ae8e-3d23c952279a.png)
+![image](https://user-images.githubusercontent.com/101356765/210271269-60102e31-6d47-4502-b8bd-e1d7a05d1b77.png)
 
 
 
@@ -20,7 +20,7 @@ Decidi eu mesmo codar o meu para quando precisasse outra vez em alguma dinâmica
 
 
 
-![image](https://user-images.githubusercontent.com/101356765/210270903-1f86ec2e-4b47-4dc1-af6a-76151068c324.png)
+![image](https://user-images.githubusercontent.com/101356765/210271266-a359c61f-d0b7-4459-9814-a70d6beb4e05.png)
 
 
 
