@@ -20,7 +20,7 @@ Decidi eu mesmo codar o meu para quando precisasse outra vez em alguma dinâmica
 
 
 
-![image](https://user-images.githubusercontent.com/101356765/210271266-a359c61f-d0b7-4459-9814-a70d6beb4e05.png)
+![image](https://user-images.githubusercontent.com/101356765/210271342-f5721f3c-e236-4004-9ec5-3347fe98d7a2.png)
 
 
 
