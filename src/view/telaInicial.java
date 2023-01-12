@@ -72,6 +72,11 @@ public class telaInicial extends javax.swing.JFrame {
 
         jButton6.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
         jButton6.setText("4");
+        jButton6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton6ActionPerformed(evt);
+            }
+        });
 
         lblPlacar.setFont(new java.awt.Font("Verdana", 1, 36)); // NOI18N
         lblPlacar.setText("PLACAR");
@@ -166,6 +171,10 @@ public class telaInicial extends javax.swing.JFrame {
         //jDesktopPane1.add(dois);
         tres.setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jButton6ActionPerformed
 
     /**
      * @param args the command line arguments
